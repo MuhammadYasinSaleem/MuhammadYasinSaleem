@@ -2,7 +2,7 @@
 
 # Hi, I'm Muhammad Yasin 👋
 
-### Software Engineer · AI/ML Researcher · 🥇 <span style="color: gold">Gold Medalist</span>, BS Computer Science
+### Software Engineer · AI/ML Researcher · 🥇 $\color{#FFD700}{\textsf{Gold Medalist}}$, BS Computer Science
 
 **Building scalable software. Exploring practical AI.**
 
@@ -164,8 +164,9 @@ I also write practical engineering guides covering backend development, API arch
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadYasinSaleem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadYasinSaleem&theme=tokyonight" alt="GitHub profile details" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadYasinSaleem&theme=tokyonight" alt="Top languages" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYasinSaleem&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=MuhammadYasinSaleem&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
